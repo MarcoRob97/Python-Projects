@@ -1,4 +1,4 @@
-# This project outlines a **Python script** for extracting **active subscriptions** from the **Stripe API** and importing them into a **Microsoft SQL Server** database. This pipeline can be deployed on cloud platforms like **AWS** or **Azure** for automated daily data ingestion, enabling you to build dashboards and reports based on up-to-date subscription information.
+This project outlines a **Python script** for extracting **active subscriptions** from the **Stripe API** and importing them into a **Microsoft SQL Server** database. This pipeline can be deployed on cloud platforms like **AWS** or **Azure** for automated daily data ingestion, enabling you to build dashboards and reports based on up-to-date subscription information.
 
 ## Libraries Used
 - **pandas**: For data manipulation and analysis.
