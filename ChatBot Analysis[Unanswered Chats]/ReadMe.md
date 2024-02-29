@@ -1,7 +1,7 @@
 # Chatbot Selenium Project
 
 ## Problem:
-In our current company, we are experimenting with a free chatbot to enhance customer interactions. 
+In my current company, we are experimenting with a free chatbot to enhance customer interactions. 
 However, due to the lack of APIs, we face challenges in extracting data to evaluate its performance 
 and identify improvement opportunities, particularly for unanswered chats.
 
@@ -25,6 +25,7 @@ I developed a Selenium robot to:
 ### Interactive Dashboard:
 - Designed an interactive Excel dashboard for stakeholders and management.
 - Incorporated filters for different timeframes to dynamically analyze chat data.
+  ` the Data waw changed for Showing and Security Purposes `
 ![Dashboard Screenshot](dashboard_screenshot.png)
 
 ## Impact:
