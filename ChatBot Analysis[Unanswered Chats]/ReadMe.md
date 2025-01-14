@@ -25,7 +25,7 @@ I developed a Selenium robot to:
 ### Interactive Dashboard:
 - Designed an interactive Excel dashboard for stakeholders and management.
 - Incorporated filters for different timeframes to dynamically analyze chat data.
-  ` the Data waw changed for Showing and Security Purposes `
+  ` the Data was changed for Showing and Security Purposes `
 ![Dashboard Screenshot](dashboard_screenshot.png)
 
 ## Impact:
